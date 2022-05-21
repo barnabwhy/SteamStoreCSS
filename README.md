@@ -6,6 +6,16 @@ Aims to make the styling of the store more consistent and modern without strayin
 
 This is a WIP however the majority of style changes on the store home page are complete.
 
+## Progress
+- [x] Major general styling (e.g. nav bar, carousels, etc.)
+- [ ] Minor General styling : PARTIALLY COMPLETE
+  - [x] Store link options
+  - [x] Discount labels
+  - [ ] Hover popup, etc.
+- [ ] App pages
+- [ ] Bundle pages
+- [ ] Additional minor style changes
+
 ## Installation
 By any means suitable, inject the CSS file into store.steampowered.com
 
