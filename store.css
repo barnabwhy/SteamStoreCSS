@@ -55,8 +55,6 @@
   overflow: clip;
 }
 
-element {}
-
 .store_nav .tab:hover>span,
 .store_nav .tab:hover {
   color: #ffffff;
@@ -188,13 +186,13 @@ body.v6 .deep_dive_key_tags,
 .tab_item {
   border-radius: var(--border-radius);
   background: var(--gpStoreDarkerGrey);
+  overflow: clip;
 }
 
 .tab_item.focus {
   background: var(--gpStoreLightestGrey);
   margin-right: 0;
   padding-right: 0;
-  overflow: clip;
 }
 
 .tab_item,
